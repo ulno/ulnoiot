@@ -23,7 +23,7 @@ void Lux_BH1750::start() {
 
 bool Lux_BH1750::measure() {
     unsigned long current_time = millis();
-    if(current_time - last_read < 1000) return false;
+    if(current_time - last_read < 250) return false;
     last_read = current_time; 
 
     float lux = sensor->readLightLevel();
