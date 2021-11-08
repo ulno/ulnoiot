@@ -5,6 +5,11 @@ IoT empower
 The main development is now taking place here:
 https://github.com/iotempire/iotempower
 
+This here is obsolete and should not be used anymore, go to IoTempower!!!!
+
+Obsolete, obsolete, obsolete!!!
+
+Just for historical purposes!
 
 IoT empower (former *ulnoiot*, pronounced: "You'll know IoT") is a
 framework and environment
